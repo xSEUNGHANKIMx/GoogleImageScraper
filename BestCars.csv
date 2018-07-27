@@ -1,0 +1,301 @@
+Acura,ILX,2013,0
+Acura,MDX,2001,0
+Acura,NSX,2017,0
+Acura,RDX,2007,0
+Acura,RLX,2014,0
+Acura,TLX,2015,0
+Alfa Romeo,4C,2015,0
+Alfa Romeo,Giulia,2017,0
+Alfa Romeo,Stelvio,2018,0
+Audi,A3,1996,0
+Audi,A3 e-tron,2011,0
+Audi,A4,1996,0
+Audi,A5,2008,0
+Audi,A6,1995,0
+Audi,A7,2012,0
+Audi,A8,1997,0
+Audi,Q3,2015,0
+Audi,Q5,2009,0
+Audi,Q7,2006,0
+Audi,R8,2004,0
+Audi,TT,2000,0
+Bentley,Bentayga,2016,0
+Bentley,Continental GT,2003,0
+Bentley,Flying Spur,2006,0
+BMW,2-Series,2014,0
+BMW,3-Series,1976,0
+BMW,4-Series,2014,0
+BMW,5-Series,1973,0
+BMW,6-Series,2003,0
+BMW,7-Series,1978,0
+BMW,i3,2014,0
+BMW,i8,2014,0
+BMW,X1,2011,0
+BMW,X3,2004,0
+BMW,X4,2015,0
+BMW,X5,2000,0
+BMW,X6,2009,0
+BMW,Z4,1995,2016
+Buick,Cascada,2016,0
+Buick,Enclave,2008,0
+Buick,Encore,2013,0
+Buick,Envision,2016,0
+Buick,LaCrosse,2005,0
+Buick,Regal,2012,0
+Buick,Verano,2012,2017
+Cadillac,ATS,2013,0
+Cadillac,CT6,2016,0
+Cadillac,CTS,2003,0
+Cadillac,Escalade,2002,0
+Cadillac,SRX,2004,0
+Cadillac,XT5,2017,0
+Cadillac,XTS,2013,0
+Chevrolet,Bolt,2016,0
+Chevrolet,Camaro,2010,0
+Chevrolet,Caprice PPV,2011,0
+Chevrolet,City Express,2015,0
+Chevrolet,Colorado,2004,0
+Chevrolet,Corvette,1953,0
+Chevrolet,Cruze,2010,0
+Chevrolet,Equinox,2005,0
+Chevrolet,Express,1996,0
+Chevrolet,Impala,2000,0
+Chevrolet,Malibu,1997,0
+Chevrolet,Silverado,1999,0
+Chevrolet,Sonic,2012,0
+Chevrolet,Spark,2000,0
+Chevrolet,SS,2014,2017
+Chevrolet,Suburban,1936,0
+Chevrolet,Tahoe,1995,0
+Chevrolet,Traverse,2009,0
+Chevrolet,Trax,2013,0
+Chevrolet,Volt,2011,0
+Chevrolet,Yukon,1991,0
+Chrysler,200,2011,0
+Chrysler,300,1999,0
+Chrysler,Pacifica CS,2004,2008
+Chrysler,Pacifica Minivan,2017,0
+Chrysler,Town & Country,1992,2016
+Dodge,Avenger,2008,2014
+Dodge,Challenger,1970,0
+Dodge,Charger,1966,0
+Dodge,Dart,2013,2016
+Dodge,Durango,1998,0
+Dodge,Grand Caravan,1984,0
+Dodge,Journey,2009,0
+Dodge,Viper,1992,0
+Fiat,124 Spider,2017,0
+Fiat,500,2008,0
+Fiat,500L,2014,0
+Fiat,500X,2014,0
+Ford,C-Max,2003,0
+Ford,Edge,2007,0
+Ford,Escape,2001,0
+Ford,E-Series,1961,2014
+Ford,Expedition,1997,0
+Ford,Explorer,1991,0
+Ford,Fiesta,1977,0
+Ford,Flex,2009,0
+Ford,Focus,1999,0
+Ford,F-Series,1947,0
+Ford,Fusion,2005,0
+Ford,Mustang,1965,0
+Ford,Taurus,1986,0
+Ford,Transit,1965,0
+Ford,Transit Connect,2010,0
+Genesis,G80,2017,0
+Genesis,G90,2017,0
+GMC,Acadia,2007,0
+GMC,Canyon,2004,0
+GMC,Savana,1995,0
+GMC,Sierra,1999,0
+GMC,Tahoe,1996,0
+GMC,Terrain,2009,0
+GMC,Yukon,1992,0
+GMC,Yukon XL,1935,0
+Honda,Accord,1977,0
+Honda,Civic,1973,0
+Honda,Clarity,2017,0
+Honda,Crosstour,2010,2015
+Honda,CR-V,1997,0
+Honda,CR-Z,2011,2016
+Honda,Fit,2002,0
+Honda,HR-V,2016,0
+Honda,Insight,2009,2014
+Honda,Odyssey,1995,0
+Honda,Pilot,2003,0
+Honda,Ridgeline,2006,2014
+Hyundai,Accent,1995,0
+Hyundai,Azera,1987,0
+Hyundai,Elantra,1990,0
+Hyundai,Genesis,2009,2016
+Hyundai,Ioniq,2017,0
+Hyundai,Santa Fe,2001,0
+Hyundai,Sonata,1985,0
+Hyundai,Tucson,2005,0
+Hyundai,Veloster,2012,0
+Infiniti,Q50,2014,0
+Infiniti,Q60,2014,0
+Infiniti,Q70,2014,0
+Infiniti,QX30,2017,0
+Infiniti,QX50,2014,0
+Infiniti,QX60,2013,0
+Infiniti,QX70,2004,0
+Infiniti,QX80,2004,0
+Jaguar,F-Pace,2017,0
+Jaguar,F-Type,2014,0
+Jaguar,XE,2016,0
+Jaguar,XF,2009,0
+Jaguar,XJ,1969,0
+Jeep,Cherokee,1974,0
+Jeep,Compass,2006,0
+Jeep,Grand Cherokee,1993,0
+Jeep,Patriot,2007,2017
+Jeep,Renegade,2015,0
+Jeep,Wrangler,1987,0
+Kia,Cadenza,2011,0
+Kia,Forte,2010,0
+Kia,K900,2013,0
+Kia,Niro,2017,0
+Kia,Optima,2001,0
+Kia,Rio,2001,0
+Kia,Sedona,2000,0
+Kia,Sorento,2003,0
+Kia,Soul,2010,0
+Kia,Sportage,1994,0
+Kia,Stinger,2018,0
+Land Rover,Discovery LR3,1990,2009
+Land Rover,Discovery LR4,2010,2016
+Land Rover,Discovery Sport,2015,0
+Land Rover,Range Rover Evoque,2012,0
+Land Rover,Range Rover Sport,2006,0
+Land Rover,Range Rover Velar,2018,0
+Lexus,CT,2011,2017
+Lexus,ES,1990,0
+Lexus,GS,1993,0
+Lexus,GX,2003,0
+Lexus,IS,1999,0
+Lexus,LC,2018,0
+Lexus,LS,1990,0
+Lexus,LX,1996,0
+Lexus,NX,2015,0
+Lexus,RC,2015,0
+Lexus,RX,1998,0
+Lincoln,Continental,2017,0
+Lincoln,MKC,2015,0
+Lincoln,MKS,2009,0
+Lincoln,MKT,2010,0
+Lincoln,MKX,2007,0
+Lincoln,MKZ,2006,0
+Lincoln,Navigator,1998,0
+Maserati,Ghibli,2014,0
+Maserati,GranTurismo,2008,0
+Maserati,Levante,2017,0
+Maserati,Quattroporte,1995,0
+Mazda,3,2004,0
+Mazda,5,2001,2015
+Mazda,6,2003,0
+Mazda,CX-3,2016,0
+Mazda,CX-5,2013,0
+Mazda,CX-9,2007,0
+Mazda,MX-5,1990,0
+Mercedes-AMG,GT,2016,0
+Mercedes-Benz,B-Class,2006,0
+Mercedes-Benz,C-Class,1994,0
+Mercedes-Benz,CLA-Class,2014,0
+Mercedes-Benz,CLS-Class,2006,0
+Mercedes-Benz,E-Class,1993,0
+Mercedes-Benz,G-Class,1979,0
+Mercedes-Benz,GLA-Class,2015,0
+Mercedes-Benz,GLC-Class,2016,0
+Mercedes-Benz,GLE-Class,2016,0
+Mercedes-Benz,GLS-Class,2017,0
+Mercedes-Benz,Metris,2016,0
+Mercedes-Benz,S-Class,1972,0
+Mercedes-Benz,SLC-Class,2017,0
+Mercedes-Benz,SL-Class,1955,0
+Mercedes-Benz,Sprinter,2010,0
+Mini,Cooper,2002,0
+Mini,Cooper Clubman,2008,0
+Mini,Cooper Countryman,2011,0
+Mini,Paceman,2013,0
+Mitsubishi,i MiEV,2012,2017
+Mitsubishi,Lancer,1974,2017
+Mitsubishi,Mirage,2014,0
+Mitsubishi,Outlander,2003,0
+Nissan,370Z,2009,0
+Nissan,Altima,1993,0
+Nissan,Armada,2004,0
+Nissan,Frontier,1998,0
+Nissan,GT-R,2009,0
+Nissan,Juke,2011,0
+Nissan,Leaf,2011,0
+Nissan,Maxima,1982,0
+Nissan,Murano,2003,0
+Nissan,NV200,2009,0
+Nissan,Pathfinder,1967,0
+Nissan,Quest,1993,0
+Nissan,Rogue,2008,0
+Nissan,Sentra,1983,0
+Nissan,Titan,2004,0
+Nissan,Versa hatchback,2007,2013
+Nissan,Versa Note,2014,0
+Nissan,Versa sedan,2007,0
+Nissan,Xterra,2000,2015
+Porsche,911,1967,0
+Porsche,Boxster,1997,0
+Porsche,Cayenne,2003,0
+Porsche,Cayman,1998,0
+Porsche,Macan,2015,0
+Porsche,Panamera,2010,0
+Ram,Pickup,1982,0
+Ram,ProMaster,2013,0
+Ram,ProMaster City,2015,0
+Scion,iQ,2009,2015
+Scion,tC,2005,2016
+Scion,xB,2004,2015
+Scion,xD,2008,2014
+Scion,FR-S,2013,0
+Smart,Fortwo,2008,0
+Subaru,BRZ,2013,0
+Subaru,Crosstrek,2013,0
+Subaru,Forester,1998,0
+Subaru,Impreza,1992,0
+Subaru,Legacy,1990,0
+Subaru,Outback,1994,0
+Tesla,Model 3,2017,0
+Tesla,Model S,2012,0
+Tesla,Model X,2016,0
+Toyota,4Runner,1984,0
+Toyota,86,2013,0
+Toyota,Avalon,1995,0
+Toyota,Camry,1982,0
+Toyota,C-HR,2018,0
+Toyota,Corolla,1967,0
+Toyota,FJ Cruiser,2006,2014
+Toyota,Highlander,2001,0
+Toyota,Land Cruiser,1952,0
+Toyota,Mirai,2016,0
+Toyota,Prius,2003,0
+Toyota,Prius C,2012,0
+Toyota,Prius V,2012,2017
+Toyota,RAV4,1995,0
+Toyota,Sequoia,2001,0
+Toyota,Sienna,1998,0
+Toyota,Tacoma,1995,0
+Toyota,Tundra,2000,0
+Toyota,Venza,2009,2015
+Toyota,Yaris,2000,0
+Volkswagen,Beetle,1938,0
+Volkswagen,Atlas,2018,0
+Volkswagen,CC,2009,2017
+Volkswagen,Golf,1975,0
+Volkswagen,Jetta,1980,0
+Volkswagen,Passat,1973,0
+Volkswagen,Tiguan,2009,0
+Volkswagen,Touareg,2004,2017
+Volvo,S60,2001,0
+Volvo,S80,1999,2016
+Volvo,S90,2017,0
+Volvo,XC60,2010,0
+Volvo,XC90,2003,0
